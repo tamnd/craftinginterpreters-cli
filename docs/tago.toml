@@ -1,0 +1,10 @@
+title       = "ci"
+baseURL     = "https://craftinginterpreters-cli.tamnd.com/"
+description = "Browse Crafting Interpreters book chapters"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/craftinginterpreters-cli"
